@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jahongir Odilov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odilov001&label=Profile%20views&color=0e75b6&style=flat" alt="odilov001" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/odilov001](https://github.com/odilov001)
