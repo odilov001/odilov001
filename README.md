@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jahongir Odilov</h1>
+<h1 align="center">Hi <img align="" alt="coding" width="40" src="https://raw.githubusercontent.com/Bharath-designer/bharath-designer/main/assets/wave.gif"> I'm Jahongir Odilov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odilov001&label=Profile%20views&color=0e75b6&style=flat" alt="odilov001" /> </p>
