@@ -21,3 +21,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=odilov001&show_icons=true&locale=en&layout=compact" alt="odilov001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=odilov001&show_icons=true&locale=en" alt="odilov001" /></p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=odilov001&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=odilov001&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=odilov001&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=odilov001&theme=2077&utcOffset=8)
